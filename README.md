@@ -6,7 +6,7 @@
 
 ## Download
 
-The app is available on [App Store](https://apps.apple.com/us/app/aibrowserbyitsuki/id6754548157).
+The macOS app is available in [Release](https://github.com/0Itsuki0/iOS-MacOS_AppleBetaDocRetriever/releases).
 
 
 ## License
