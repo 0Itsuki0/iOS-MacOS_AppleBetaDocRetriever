@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-1024x1024@1x 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "BetaRetrieverIcon-iOS-Dark-1024x1024@1x 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,56 +25,67 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "BetaRetrieverIcon-iOS-Dark-1024x1024@1x.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-16x16@1x.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-16x16@2x.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-16x16@2x 1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-32x32@2x.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-64x64@2x.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-256x256@1x.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-256x256@1x 1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-256x256@2x.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-256x256@2x 1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
+      "filename" : "BetaRetrieverIcon-iOS-Dark-1024x1024@1x 3.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
