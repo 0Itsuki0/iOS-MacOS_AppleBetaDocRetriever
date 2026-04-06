@@ -1,4 +1,4 @@
-# Apple Beta Doc Retriever
+# iOS/MacOS: Apple Beta Doc Retriever
 
 
 ### ⭐⭐ A Utility app for getting Apple Developer beta documentations. ⭐⭐
